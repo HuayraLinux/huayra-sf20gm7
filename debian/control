@@ -1,0 +1,17 @@
+Source: huayra-sf20gm7
+Section: misc
+Priority: extra
+Maintainer: Fernando Toledo <ragnarok@docksud.com.ar>
+Build-Depends: debhelper (>= 9.0.0),
+Standards-Version: 3.9.6
+Homepage: https://github.com/HuayraLinux/huayra-sf20gm7
+Vcs-Git: https://github.com/HuayraLinux/huayra-sf20gm7.git
+Vcs-Browser: https://github.com/HuayraLinux/huayra-sf20gm7
+
+Package: huayra-sf20gm7
+Architecture: amd64
+Depends: ${misc:Depends}, i965-va-driver
+Description: Paquete de soporte de dispositivo 2021 (SF20GM7)
+ Este paquete contiene los drivers o arreglos necesarios
+ para ejecutar Huayra en los dispositivos 2021 modelo de
+ referencia SF20GM7

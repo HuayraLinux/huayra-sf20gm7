@@ -1,0 +1,11 @@
+huayra-sf20gm7 (1.1) unstable; urgency=medium
+
+  * Agrega dependencia a i965-va-driver para mejorar reproduccion de videos.
+
+ -- Matias De lellis <mati86dl@gmail.com>  Fri, 30 Apr 2021 11:26:47 -0300
+
+huayra-sf20gm7 (1.0) unstable; urgency=medium
+
+  * Version inicial
+
+ -- Matias De lellis <mati86dl@gmail.com>  Wed, 24 Feb 2021 16:36:04 -0300
