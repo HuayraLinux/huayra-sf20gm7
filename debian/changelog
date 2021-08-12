@@ -1,3 +1,9 @@
+huayra-sf20gm7 (1.2) unstable; urgency=medium
+
+  * Agrega configuracion para activar el click con toque del touchpad.
+
+ -- Matias De lellis <mati86dl@gmail.com>  Thu, 12 Aug 2021 09:41:05 -0300
+
 huayra-sf20gm7 (1.1) unstable; urgency=medium
 
   * Agrega dependencia a i965-va-driver para mejorar reproduccion de videos.
